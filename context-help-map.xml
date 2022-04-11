@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="audacity_overview" path="untitled2.html"/>
+   <appContext helpID="what_is_audacity" path="what_is_audacity.html"/>
+   <appContext helpID="features" path="features.html"/>
+   <appContext helpID="effects" path="effects.html"/>
+   <appContext helpID="generators" path="untitled6.html"/>
+   <appContext helpID="analyzers" path="analyzers.html"/>
+   <appContext helpID="tools" path="tools.html"/>
+   <appContext helpID="getting_started" path="getting_started.html"/>
+   <appContext helpID="importing_and_exporting_audio"
+               path="importing_and_exporting_audio.html"/>
+   <appContext helpID="importing_audio" path="untitled11.html"/>
+   <appContext helpID="exporting_audio" path="exporting_audio_0.html"/>
+</map>
